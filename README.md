@@ -4,7 +4,7 @@ Hello, class! This is the first assignment for ILS-Z399. The requirements for th
 
 Write a Python program that displays answers to the following questions:
 
-* What is your name?
+* My name is Karre Marshall
 * What is your favorite game?
 * What concerns do you have about this class?
 * What are you excited about (in general)?
